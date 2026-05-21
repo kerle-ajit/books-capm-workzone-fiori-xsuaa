@@ -1,0 +1,44 @@
+
+### Get all books
+GET http://localhost:4004/odata/v4/library-srv/BooksSet(11111111-1111-1111-1111-111111111111)
+
+### POST a new book
+POST http://localhost:4004/odata/v4/library-srv/BooksSet
+Content-Type: application/json
+
+{
+  "title": "my lekha Book Title",
+  "author": "ajit kerle",
+  "publishedDate": "2024-01-01",
+  "price": -19.99
+}
+
+### Get a specific book by 
+GET http://localhost:4004/odata/v4/library-srv/BooksSet
+
+
+### Update a book
+PUT http://localhost:4004/odata/v4/library-srv/BooksSet(11111111-1111-1111-1111-111111111111)
+Content-Type: application/json
+
+{
+   "author": "Ajit Kerle",
+    "price": 70.00,
+}
+
+
+### Delete a book
+DELETE http://localhost:4004/odata/v4/library-srv/BooksSet(11111111-1111-1111-1111-111111111111)
+
+
+### POST a new book
+PUT http://localhost:4004/odata/v4/library-srv/BooksSet(11111111-1111-1111-1111-111111111111)
+Content-Type: application/json  
+
+{
+  "title": "amrut wani",
+  "author": "madhav kerle",
+  "publishedDate": "2024-01-01",
+  "price": -19.99,
+  "digitalCopy": true
+}

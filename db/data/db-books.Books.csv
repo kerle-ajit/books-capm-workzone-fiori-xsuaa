@@ -1,0 +1,9 @@
+ID,title,author,price,publishedDate,digitalCopy,bookAgeGroup
+11111111-1111-1111-1111-111111111111,The Silent Forest,Arun Mehta,299.99,2021-06-15T09:00:00Z,true,ADULT
+22222222-2222-2222-2222-222222222222,Clouds of Tomorrow,Neha Sharma,199.50,2020-11-09T12:30:00Z,false,KIDS
+33333333-3333-3333-3333-333333333333,Journey to the Stars,Rahul Verma,450.00,2019-03-22T15:45:00Z,true,ADULT
+44444444-4444-4444-4444-444444444444,The Last Empire,Ananya Rao,350.75,2023-01-05T10:20:00Z,false,KIDS
+55555555-5555-5555-5555-555555555555,Shadows of the Past,Karan Malhotra,150.00,2018-08-18T08:00:00Z,true,KIDS
+"91f2f3e0-9bc2-4a6b-9fb4-82c1ddaa1a10","Stars Above the Valley","Meera Khanna",249.50,"2022-11-10T00:00:00Z",true,ADULT
+"c3b1c5d8-7e33-4a32-9c51-a2ef9f3a12f9","The Silent Archives","Rohan Desai",399.00,"2021-05-26T00:00:00Z",false,ADULT
+"7e41d1c8-4bd0-4af5-b53d-a8c98f229456","Wings of Little Dreams","Anita George",149.75,"2023-03-02T00:00:00Z",true,KIDS
