@@ -11,12 +11,12 @@ File or Folder | Purpose
 `srv/` | your service models and code go here
 `readme.md` | this getting started guide
 
-## Next Steps
+## Next Steps to run the project 
 
 Commands: to run project locally 
-Git clone in BAS studio
-npm install
-cds watch
+  Git clone in BAS studio
+  npm install
+    cds watch
 URL:
 http://localhost:4004
 UI:
