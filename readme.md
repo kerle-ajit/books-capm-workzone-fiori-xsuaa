@@ -1,17 +1,5 @@
 # Getting Started
 
-
-Commands: to run project locally 
-  Git clone in BAS studio
-  npm install
-    cds watch
-URL:
-http://localhost:4004
-UI:
-/odata/v4/books
-/$metadata
-CAPM automatically exposes a beautiful OData UI for testing.
-
 Welcome to your new CAPM End to end project from UI to CDS Models to deployement.
 
 It contains these folders and files, following our recommended project layout:
@@ -23,6 +11,22 @@ File or Folder | Purpose
 `srv/` | your service models and code go here
 `readme.md` | this getting started guide
 
+## Next steps for running app in local 
+Clone the Repository
+git clone <your-repo-url>
+cd <project-Name>
+
+Install Dependencies
+npm install
+
+Start the CAP Server
+cds watch
+
+Local Server URL
+
+Once the server is running, open:
+
+🔗 http://localhost:4004
 
 ## What we achieved here 
 Books CAPM – SAP CAP Application with XSUAA, Fiori UI5 & Work Zone Integration
