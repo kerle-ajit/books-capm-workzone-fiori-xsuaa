@@ -1,17 +1,5 @@
 # Getting Started
 
-Welcome to your new CAPM End to end project from UI to CDS Models to deployement.
-
-It contains these folders and files, following our recommended project layout:
-
-File or Folder | Purpose
----------|----------
-`app/` | content for UI frontends goes here
-`db/` | your domain models and data go here
-`srv/` | your service models and code go here
-`readme.md` | this getting started guide
-
-## Next Steps to run the project 
 
 Commands: to run project locally 
   Git clone in BAS studio
@@ -23,6 +11,17 @@ UI:
 /odata/v4/books
 /$metadata
 CAPM automatically exposes a beautiful OData UI for testing.
+
+Welcome to your new CAPM End to end project from UI to CDS Models to deployement.
+
+It contains these folders and files, following our recommended project layout:
+
+File or Folder | Purpose
+---------|----------
+`app/` | content for UI frontends goes here
+`db/` | your domain models and data go here
+`srv/` | your service models and code go here
+`readme.md` | this getting started guide
 
 
 ## What we achieved here 
