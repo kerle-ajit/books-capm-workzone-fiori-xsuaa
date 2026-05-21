@@ -13,9 +13,16 @@ File or Folder | Purpose
 
 ## Next Steps
 
-- Open a new terminal and run `cds watch`
-- (in VS Code simply choose _**Terminal** > Run Task > cds watch_)
-- Start with your domain model, in a CDS file in `db/`
+Commands: to run project locally 
+Git clone in BAS studio
+npm install
+cds watch
+URL:
+http://localhost:4004
+UI:
+/odata/v4/books
+/$metadata
+CAPM automatically exposes a beautiful OData UI for testing.
 
 ## Learn More
 
