@@ -1,6 +1,6 @@
 # Getting Started
 
-Welcome to your new CAP project.
+Welcome to your new CAPM End to end project from UI to CDS Models to deployement.
 
 It contains these folders and files, following our recommended project layout:
 
@@ -23,10 +23,6 @@ UI:
 /odata/v4/books
 /$metadata
 CAPM automatically exposes a beautiful OData UI for testing.
-
-## Learn More
-
-Learn more at <https://cap.cloud.sap>.
 
 
 ## What we achieved here 
